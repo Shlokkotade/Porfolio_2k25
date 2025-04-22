@@ -20,6 +20,8 @@ Welcome to my personal portfolio website! This project showcases who I am, my sk
 
 ## 🌐 Website Preview
 
+https://youtu.be/5lpoUsxq1-I?si=YdnyUTmOKFFRbC5O
+
 ### 🔹 Home Page
 ![Home Page](./assets/Screenshot_2025-04-22_203748.png)
 
